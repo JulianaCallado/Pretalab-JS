@@ -1,0 +1,24 @@
+* {
+    margin: 5px;
+    padding: 4px;
+    border: 1px solid ;
+    max-width: 772px;
+    max-height: 711px;
+    
+}
+body { 
+    text-align-last: auto;
+    margin: 80px;
+    background-color: darkslateblue
+    ;
+}
+.border {
+    color: rgb(0, 255, 166);
+}
+h1 {
+    text-align-last: center;
+    color: aqua;
+
+    font-size: xx-large;
+    line-height: 60px;
+}
